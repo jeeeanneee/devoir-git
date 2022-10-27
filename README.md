@@ -1,6 +1,6 @@
 # devoir-git
-Nom:                 IdGithub:
-Nom:                 IdGithub:
+Nom: GUESNIER                IdGithub: PLGuesnier
+Nom: PAVY                 IdGithub: Hugobe
 Nom:                 IdGithub:
 Nom:                 IdGithub:
 Nom: Jeanne          IdGithub: jeeeanneee
